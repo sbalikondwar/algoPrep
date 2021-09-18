@@ -9,3 +9,4 @@
 
 - #### Problems solved
 - ##### [1876 Substring of size three](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
+- ##### [643 Maxsubarray](https://leetcode.com/problems/maximum-average-subarray-i/)

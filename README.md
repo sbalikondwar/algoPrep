@@ -14,3 +14,4 @@
 - ##### [1876 Substring of size three](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
 - ##### [643 Maxsubarray](https://leetcode.com/problems/maximum-average-subarray-i/)
 - ##### [239 Sliding window max](https://leetcode.com/problems/sliding-window-maximum/)
+- ##### [219 Contains duplicate](https://leetcode.com/problems/contains-duplicate-ii/)

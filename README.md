@@ -7,7 +7,7 @@
 
 
 ## Resource
-     - #### [Leetcode patterns](https://seanprashad.com/leetcode-patterns/)
+  - #### [Leetcode patterns](https://seanprashad.com/leetcode-patterns/)
 
 ## 1. Sliding window
 

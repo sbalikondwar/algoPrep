@@ -10,9 +10,9 @@
   - #### How to solve sliding window blog [link](https://medium.com/outco/how-to-solve-sliding-window-problems-28d67601a66).
   - #### Sliding Window course [link](https://usaco.guide/gold/sliding-window/#sliding-window)
 
-- #### Problems solved
-- ##### [1876 Substring of size three](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
-- ##### [643 Maxsubarray](https://leetcode.com/problems/maximum-average-subarray-i/)
-- ##### [239 Sliding window max](https://leetcode.com/problems/sliding-window-maximum/)
-- ##### [219 Contains duplicate](https://leetcode.com/problems/contains-duplicate-ii/)
-- ##### [209 Min size subarray sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+    - #### Problems solved
+    - ##### [1876 Substring of size three](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
+    - ##### [643 Maxsubarray](https://leetcode.com/problems/maximum-average-subarray-i/)
+    - ##### [239 Sliding window max](https://leetcode.com/problems/sliding-window-maximum/)
+    - ##### [219 Contains duplicate](https://leetcode.com/problems/contains-duplicate-ii/)
+    - ##### [209 Min size subarray sum](https://leetcode.com/problems/minimum-size-subarray-sum/)

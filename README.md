@@ -5,8 +5,9 @@
 
 # List of solved problems.
 
-### Resource
-    - #### [Leetcode patterns](https://seanprashad.com/leetcode-patterns/)
+
+## Resource
+     - #### [Leetcode patterns](https://seanprashad.com/leetcode-patterns/)
 
 ## 1. Sliding window
 

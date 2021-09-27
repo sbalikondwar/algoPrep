@@ -43,3 +43,6 @@
   1. Squaring a sorted array (easy)
   2. Triplets that sum to zero (medium)
   3. Comparing strings that contain backspaces (medium)
+  
+  - #### Problems solved
+    - ##### [200 Reverse prefix of word](https://leetcode.com/problems/reverse-prefix-of-word/)

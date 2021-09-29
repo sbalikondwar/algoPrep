@@ -47,3 +47,4 @@
   - #### Problems solved
     - ##### [200 Reverse prefix of word](https://leetcode.com/problems/reverse-prefix-of-word/)
     - ##### [1877 Minmax pair sum](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)
+    - ##### [287 Find the duplicate](https://leetcode.com/problems/find-the-duplicate-number/)

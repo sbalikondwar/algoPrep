@@ -49,3 +49,4 @@
     - ##### [1877 Minmax pair sum](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)
     - ##### [287 Find the duplicate](https://leetcode.com/problems/find-the-duplicate-number/)
     - ##### [763 Partition labels](https://leetcode.com/problems/partition-labels/)
+    - ##### [15 Sum](https://leetcode.com/problems/3sum/)

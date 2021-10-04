@@ -8,6 +8,7 @@
 
 ## Resource
   - #### [Leetcode patterns](https://seanprashad.com/leetcode-patterns/)
+  - #### [Errichto Binary Search](https://www.youtube.com/watch?v=GU7DpgHINWQ)
 
 ## 1. Sliding window
   
@@ -52,3 +53,15 @@
     - ##### [15 Sum](https://leetcode.com/problems/3sum/)
     - ##### [16 3Sum closest](https://leetcode.com/problems/3sum-closest/)
     - ##### [75 sort colours](https://leetcode.com/problems/sort-colors/)
+
+## 3. Modified Binary Search
+  
+  Whenever you are given a sorted array, linked list, or matrix, and are asked to find a certain element, the best algorithm you can use is the Binary Search. This pattern describes an efficient way to handle all problems involving Binary Search.
+  
+  - #### [Errichto Binary Search](https://www.youtube.com/watch?v=GU7DpgHINWQ)
+  
+  Used when:
+  
+
+  - #### Problems solved
+    - ##### [704 Binary Search](https://leetcode.com/problems/binary-search)

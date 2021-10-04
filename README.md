@@ -65,3 +65,4 @@
 
   - #### Problems solved
     - ##### [704 Binary Search](https://leetcode.com/problems/binary-search)
+    - ##### [378 Kth Smallest element in sorted matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)

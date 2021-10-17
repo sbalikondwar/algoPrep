@@ -69,3 +69,14 @@
     - ##### [153 Find minimum in sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)
     - ##### [162 Find peak elements](https://leetcode.com/problems/find-peak-element/)
     - ##### [A Rank list codeforces](https://codeforces.com/contest/166/problem/A)
+
+## 4. Dynamic Programming
+  
+  About 25% of all SRM problems have the "Dynamic Programming" category tag. The DP problems are popular among problemsetters because each DP problem is original in some sense and you have to think hard to invent the solution for it. Since dynamic programming is so popular, it is perhaps the most important method to master in algorithm competitions.
+
+  - #### DP from Novice to Advanced [link](https://www.topcoder.com/thrive/articles/Dynamic%20Programming:%20From%20Novice%20to%20Advanced)
+  - #### Everything DP [link](https://codeforces.com/blog/entry/43256)
+  - #### Top 20 DP [link](https://www.geeksforgeeks.org/top-20-dynamic-programming-interview-questions/)
+
+  - #### Problems solved
+    - ##### [1876 Substring of size three](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)

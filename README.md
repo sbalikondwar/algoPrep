@@ -79,4 +79,4 @@
   - #### Top 20 DP [link](https://www.geeksforgeeks.org/top-20-dynamic-programming-interview-questions/)
 
   - #### Problems solved
-    - ##### [1876 Substring of size three](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
+    - ##### [70 Climbing stairs](https://leetcode.com/problems/climbing-stairs) 

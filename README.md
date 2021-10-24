@@ -73,6 +73,13 @@
 ## 4. Dynamic Programming
   
   About 25% of all SRM problems have the "Dynamic Programming" category tag. The DP problems are popular among problemsetters because each DP problem is original in some sense and you have to think hard to invent the solution for it. Since dynamic programming is so popular, it is perhaps the most important method to master in algorithm competitions.
+  
+  Goal is to fix the overlapping problem of not recalculating states.
+  
+  1. Memoization (Top Down): The memoized program for a problem is similar to the recursive version with a small modification that looks into a lookup table before computing solutions. We initialize a lookup array with all initial values as NIL. Whenever we need the solution to a subproblem, we first look into the lookup table. If the precomputed value is there then we return that value, otherwise, we calculate the value and put the result in the lookup table so that it can be reused later.
+  2. Tabulation (Bottom Up): The tabulated program for a given problem builds a table in bottom-up fashion and returns the last entry from the table. For example, for the same Fibonacci number, we first calculate fib(0) then fib(1) then fib(2) then fib(3), and so on. So literally, we are building the solutions of subproblems bottom-up.
+
+  Optimal Substructure: A given problems has Optimal Substructure Property if optimal solution of the given problem can be obtained by using optimal solutions of its subproblems. 
 
   - #### DP from Novice to Advanced [link](https://www.topcoder.com/thrive/articles/Dynamic%20Programming:%20From%20Novice%20to%20Advanced)
   - #### Everything DP [link](https://codeforces.com/blog/entry/43256)
@@ -84,3 +91,4 @@
     - ##### [53 Max subarray](https://leetcode.com/problems/maximum-subarray/) Complete this also
     - ##### [494 Target Sum](https://leetcode.com/problems/target-sum/) Try other DP approaches
     - ##### [198 House Robber](https://leetcode.com/problems/house-robber) Try simple iterative approach
+    - ##### [300 LIS](https://leetcode.com/problems/longest-increasing-subsequence/discuss/1326552/Optimization-From-Brute-Force-to-Dynamic-Programming-Explained!)

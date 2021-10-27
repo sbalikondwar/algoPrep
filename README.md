@@ -95,4 +95,5 @@
     DP set gfg
     
     - ##### [300 LIS](https://leetcode.com/problems/longest-increasing-subsequence/discuss/1326552/Optimization-From-Brute-Force-to-Dynamic-Programming-Explained!) Need to try binary search approach and also understand dp[ind][previ] reason
-    - ##### [1143 LCS](https://leetcode.com/problems/longest-common-subsequence/discuss/590781/From-Brute-Force-To-DP) Need to ac it.
+    - ##### [1143 LCS](https://leetcode.com/problems/longest-common-subsequence/discuss/590781/From-Brute-Force-To-DP) Solved it.
+    - ##### [72 Edit distance](https://leetcode.com/problems/edit-distance) need to solve it. 

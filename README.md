@@ -98,3 +98,9 @@
     - ##### [1143 LCS](https://leetcode.com/problems/longest-common-subsequence/discuss/590781/From-Brute-Force-To-DP) Solved it.
     - ##### [72 Edit distance](https://leetcode.com/problems/edit-distance) solved it.
     - ##### [64 Minimum path sum](https://leetcode.com/problems/minimum-path-sum) understand it.
+
+## 5. Uses of DS.
+
+    - ## Map
+      - To count occurences of elements
+      - To count if element is repeated in given length string. mp.size and string length compare
